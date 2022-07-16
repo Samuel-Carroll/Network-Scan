@@ -38,7 +38,7 @@ while True:
     file.write("\n_________________________________\n")
     file.close()
     #putting a delay on our loop
-    time.sleep(10)
+    time.sleep(900)
     
 
      
